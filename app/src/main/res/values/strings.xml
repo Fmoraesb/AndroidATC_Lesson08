@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidATC - Exercises from Lesson08</string>
+    <string name="bt_salvar">Save</string>
+    <string name="bt_download">Download</string>
+    <string name="bt_Data">Data</string>
+    <string name="bt_Time">Time</string>
+    <string name="bt_Conexao">Internet Connection</string>
+</resources>
